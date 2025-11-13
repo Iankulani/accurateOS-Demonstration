@@ -4,3 +4,15 @@
 
 
 AccurateOS-Demonstration is a lightweight and efficient operating system designed to showcase advanced cybersecurity and automation capabilities.
+Built for educational and experimental purposes, AccurateOS-Demonstration enables seamless Telegram configuration for secure command execution, communication, and system monitoring. 
+It integrates real-time system performance tracking, user-friendly interface elements, and network control features that allow users to test automation and security functions in a controlled environment. 
+With its modular design and fast setup, AccurateOS-Demonstration serves as a foundation for developers, researchers, and cybersecurity learners exploring secure communication through Telegram-based systems.
+ 
+ **Markdown**
+
+**How to clone**
+
+git clone https://github.com/Iankulani/accurateOS-Demonstration.git
+
+**How to run**
+
