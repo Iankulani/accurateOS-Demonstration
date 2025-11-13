@@ -8,7 +8,6 @@ Built for educational and experimental purposes, AccurateOS-Demonstration enable
 It integrates real-time system performance tracking, user-friendly interface elements, and network control features that allow users to test automation and security functions in a controlled environment. 
 With its modular design and fast setup, AccurateOS-Demonstration serves as a foundation for developers, researchers, and cybersecurity learners exploring secure communication through Telegram-based systems.
  
- **Markdown**
 
 **How to clone**
 
@@ -16,3 +15,4 @@ git clone https://github.com/Iankulani/accurateOS-Demonstration.git
 
 **How to run**
 
+python3 accurateOS-Demonstration.py
