@@ -23,3 +23,57 @@ cd accurateOS-Demonstration
 python3 accurateOS-Demonstration.py
 
 ```
+
+## Teelegram Command Usage
+
+```bash
+/start
+/help
+/ping_ip
+/scan_ip
+/traceroute_ip
+/history
+
+```
+
+## Screenshots
+
+
+
+
+<img width="500" height="500" alt="Screenshot (1144)" src="https://github.com/user-attachments/assets/c4f192aa-d6d2-41b4-b39c-220ad3a41306" />
+
+<img width="500" height="500" alt="Screenshot (1139)" src="https://github.com/user-attachments/assets/7290590a-72d8-4558-9fba-419df17baa9c" />
+
+<img width="500" height="500" alt="Screenshot (1137)" src="https://github.com/user-attachments/assets/b8628e9a-723d-42fc-b2d1-9176008a62ca" />
+
+
+<img width="500" height="500" alt="Screenshot (1147)" src="https://github.com/user-attachments/assets/33e17978-b9f9-4641-b0ac-6aa80f4a657a" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
